@@ -1,6 +1,6 @@
 # Sample NFT Collections
 
-This collections can be used as basis to build your own NFT collections and deploy them to [Metamanita](https://metamanita.org/)
+These collections can be used as basis to build your own NFT collections and deploy them to [Metamanita](https://metamanita.org/)
 
 ## Examples
 
