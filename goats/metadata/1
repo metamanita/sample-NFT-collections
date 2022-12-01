@@ -1,0 +1,17 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Some trait type",
+            "value": "some value for goat#1"
+        },
+        {
+            "trait_type": "Another trait type",
+            "value": "another value for goat#1"
+        }
+    ],
+    "description": "Sample Collection",
+    "external_url": "",
+    "image": "ipfs://bafybeifdkk5b34ytchu72fvwx5ux4wrnmrw7lutb3zt3wowxxwanhmwwri/1.jpeg",
+    "animation_url": "",
+    "name": "goat#1"
+}

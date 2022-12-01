@@ -1,0 +1,8 @@
+{
+    "name": "Color Apes",
+    "description": "Sample Collection with some Cool Apes",
+    "image": "ipfs://bafybeifx2trwuedcjrylh24e5p44hwg6xo6ennkkzqp7kqkgqbodxqwjf4",
+    "external_link": "",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x4F6f611A6d05892518c6C21617C76d336b857A7c"
+}

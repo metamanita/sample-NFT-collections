@@ -1,0 +1,17 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Substrate",
+            "value": "Canvas"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Oil"
+        }
+    ],
+    "description": "An oil painting on canvas. AI generated with Stable Diffusion",
+    "external_url": "",
+    "image": "ipfs://bafybeier5gmyoc4xiiifcdnhuk2blaj2rpfrqjvkjtjp6vrsjua5yvvyry/0.jpeg",
+    "animation_url": "",
+    "name": "OilPainting#0"
+}

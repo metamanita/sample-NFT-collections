@@ -1,0 +1,17 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Some trait type",
+            "value": "some value for Ape#2"
+        },
+        {
+            "trait_type": "Another trait type",
+            "value": "another value for Ape#2"
+        }
+    ],
+    "description": "Sample Collection",
+    "external_url": "",
+    "image": "ipfs://bafybeicydl7vd57ad5m7uj5p7v6x4t5q3fe2szq25ciu6w3cjfn6g2cgia/2.jpeg",
+    "animation_url": "",
+    "name": "Ape#2"
+}
