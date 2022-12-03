@@ -12,7 +12,7 @@ Base URI: ipfs://bafybeig6h7mwld2j7jdthdpdoqlgyaeaqdhs6gulwucuwo5cpoilj3feo4/
 Contract URI: ipfs://bafkreiee53fo4adsqj5emumccvosz3wpsf45kgttznpx2lw77ww2e7cfga
 Token Max Supply: 6
 Mint Price: Anythin you like
-Max per Mint: Anything smaller than Token Max Syupply
+Max per Mint: Anything smaller than Token Max Supply
 ```
 
 To deploy Goats:
@@ -23,7 +23,7 @@ Base URI: ipfs://bafybeige6l7o4moqgthauprfqnmoi3z7ipkkrdheevxy42onrirfjfvafa/
 Contract URI: ipfs://bafkreiax2cvwgoupt6ap2trqpbwooibrhyl3zgt5dmsjp5qt77ai2arxp4
 Token Max Supply: 6
 Mint Price: Anythin you like
-Max per Mint: Anything smaller than Token Max Syupply
+Max per Mint: Anything smaller than Token Max Supply
 ```
 
 To deploy Oil Paintings:
@@ -34,7 +34,7 @@ Base URI: ipfs://bafybeia7ech4hrehxro3uxbdt652u5iley2nlg5cmx6oxzmjahbhc46ulm/
 Contract URI: ipfs://bafkreihvtzhv2a4prwjuedukhtsjl5z5j2lc7zibfnpaj5s5ooxzbhn47i
 Token Max Supply: 41
 Mint Price: Anythin you like
-Max per Mint: Anything smaller than Token Max Syupply
+Max per Mint: Anything smaller than Token Max Supply
 ```
 
 ## Workflow to build your own
